@@ -1,0 +1,22 @@
+{
+  "name": "multiplayer-game-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colyseus": "^0.16.5",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "pnpm@10.24.0",
+  "author": "frenzz",
+  "license": "ISC",
+  "keywords": []
+}
